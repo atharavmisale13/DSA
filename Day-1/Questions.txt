@@ -1,0 +1,4 @@
+Q1. Concatenation of array
+
+Q2.Count Asterisks
+
